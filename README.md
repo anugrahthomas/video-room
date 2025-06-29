@@ -1,7 +1,5 @@
 # Video Call App
 
-A simple video call application built as part of the 100xdev Week 23 challenge.
-
 ## Features
 
 - Real-time video and audio calls
